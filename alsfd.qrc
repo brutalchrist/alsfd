@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>imagenes/icon.png</file>
+        <file>imagenes/icon_alert.png</file>
+        <file>imagenes/icon_alert_2.png</file>
+        <file>imagenes/label.jpg</file>
+        <file>imagenes/logo.png</file>
+        <file>imagenes/logo-arduino.png</file>
+        <file>imagenes/no.png</file>
+        <file>imagenes/ok.png</file>
+        <file>imagenes/qt-logo.png</file>
+        <file>imagenes/reload.png</file>
+    </qresource>
+</RCC>
